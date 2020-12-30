@@ -142,7 +142,8 @@ Selected in [Devscript Winter Of Code](https://devscript.tech/)
 
 ![](Readme_images/Devscript.jpeg)
 
-Selected in [Script Winter Of Code](https://swoc.tech/project.html) 
+Selected in [Script Winter Of Code](https://swoc.tech/project.html)
+
 ![](Readme_images/winter.jpeg)
 [Student Code-in](https://scodein.tech/)
 
